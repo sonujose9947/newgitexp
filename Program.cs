@@ -9,6 +9,7 @@ namespace newgitexp
             Console.WriteLine("Hello World!");
             Console.WriteLine("sonumol");
             Console.WriteLine("how are you??");
+            System.Console.WriteLine("hiiiii");
         }
     }
 }
