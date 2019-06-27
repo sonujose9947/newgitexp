@@ -11,6 +11,7 @@ namespace newgitexp
             Console.WriteLine("how are you??");
             Console.WriteLine("iam fine. thank you");
 
+            System.Console.WriteLine("hiiiii");
         }
     }
 }
